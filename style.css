@@ -1,0 +1,98 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 5px;
+}h1{
+    font-size: 50px;
+}
+#first{
+    margin-bottom: 0%;
+    font-size: 50px;
+}
+h2{
+    color: #363958;
+}
+section{
+height: 500px;
+}
+#coloredh1{
+    color: lightcoral;
+    font-size: 50px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left:4% ;
+    padding-left: 2%;
+    padding-bottom: 3%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,lightblue);
+    margin-top: 10%;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+}
+.lower{
+    background-color: lightgray;
+    height: 700px;
+}
+.coloredlow{
+    color: red;
+}
+.three{
+    width: 25%;
+    margin-left: 3%;
+    padding: 2%;
+    background-color: honeydew;
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+}
+#center{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10%;
+    padding: 5% ;
+}
+.new{
+    margin: 80px 0px 40px 83px;
+}
+.last{
+    height: 200px;
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:5% 20% ;
+}
+.wr{
+    color: white;
+    margin-right: 1px;
+}
+.extra{
+    height: 200px;
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-left: 20%;
+}
+li{
+    font-size: 20px;
+    color: gray;
+    
+}
+.extra{
+    background-color: whitesmoke;
+}
+.link-button1{
+    text-decoration: none;
+    color: grey;
+}
+.green{
+    color: green;
+}
+.space{
+margin-top: 10%;
+}
